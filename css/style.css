@@ -5,13 +5,14 @@
 }
 
 body{
-  background-color: lightgray;
+  background-color: #F6F8F9;
 }
 
 header{
   background-color: white;
   height: 100px;
   line-height: 100px;
+  padding-left: 5%;
 }
 
 .testa{
@@ -29,6 +30,7 @@ section{
   background-color: white;
   padding-left: 5%;
   border-radius: 3px;
+  margin-top: 5px;
 }
 
 .bottoni{
@@ -54,5 +56,71 @@ section{
 }
 
 .testo{
-  margin-top: 5px;
+  padding: 2% 0;
+}
+
+.riga{
+  padding: 1% 0;
+}
+
+.check{
+  color: lightgreen;
+  border: 2px solid lightgreen;
+  padding: 2px;
+  border-radius: 50%;
+}
+
+.cross{
+  color: red;
+  border: 2px solid red;
+  padding: 2px;
+  border-radius: 50%;
+}
+
+.editorial{
+  background-color: #47ADF1;
+  color: white;
+  border-radius: 10px;
+  padding: 5px 10px;
+  font-size: small;
+}
+
+.goals{
+  background-color: #9C72E4;
+  color: white;
+  border-radius: 10px;
+  padding: 5px 10px;
+  font-size: small;
+}
+
+.recruiting{
+  background-color: #64C0A9;
+  color: white;
+  border-radius: 10px;
+  padding: 5px 10px;
+  font-size: small;
+}
+
+.mobile{
+  background-color: #F29E33;
+  color: white;
+  border-radius: 10px;
+  padding: 5px 10px;
+  font-size: small;
+}
+
+.website{
+  background-color: #D863A1;
+  color: white;
+  border-radius: 10px;
+  padding: 5px 10px;
+  font-size: small;
+}
+
+.sales{
+  background-color: #B0C926;
+  color: white;
+  border-radius: 10px;
+  padding: 5px 10px;
+  font-size: small;
 }
